@@ -1,0 +1,15 @@
+alert
+assert
+crit
+critical
+emerg
+err
+exception
+fail
+warn
+handle
+check
+fault
+disable
+overflow
+

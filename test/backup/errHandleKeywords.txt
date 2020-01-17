@@ -1,0 +1,10 @@
+alert
+assert
+crit
+critical
+emerg
+err
+exception
+fail
+warn
+
